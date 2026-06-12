@@ -39,7 +39,7 @@ Student_Database_Management_System/
 
 1. Clone the repository:
 
-   git clone https://github.com/Anish-Mangu09/Student_Database_Management_System.git
+   git clone [https://github.com/Anish-Mangu09/Student-dB-using-python/tree/main/Student_Database_Management_System]
 
 2. Navigate to the project folder:
 
