@@ -29,9 +29,9 @@ A Python-based Student Database Management System that demonstrates Object-Orien
 
 ## Project Structure
 
-Student-Database-System/
+Student_Database_Management_System/
 
-├── student_database.py
+├── StudentDatabase.py
 
 └── README.md
 
@@ -39,15 +39,15 @@ Student-Database-System/
 
 1. Clone the repository:
 
-   git clone https://github.com/your-username/student-database-system.git
+   git clone https://github.com/Anish-Mangu09/Student_Database_Management_System.git
 
 2. Navigate to the project folder:
 
-   cd student-database-system
+   cd Student_Database_Management_System
 
 3. Run the program:
 
-   python student_database.py
+   python StudentDatabase.py
 
 ## Sample Menu
 
